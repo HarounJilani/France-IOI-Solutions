@@ -15,17 +15,10 @@ int main()
         else
             i++;
 
-         if(i==-1)
+         if(i<0)
             i++;
-
     }
     cout<<ch;
 
-
-
 }
-
-
-
-
 
